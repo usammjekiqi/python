@@ -32,3 +32,4 @@ nr1=int(input("numri nje"))
 nr2=int(input("numri dy"))
 rezultati3=nr1+nr2
 print(rezultati3)
+
