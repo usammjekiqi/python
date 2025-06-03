@@ -1,5 +1,5 @@
 class animal:
-    def sound(self):
+    def   sound(self):
         print("some generit anemal sound")
 
 class dog(animal):
