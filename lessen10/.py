@@ -6,14 +6,14 @@ class student:
     def get_name(self):
         return self.__name
 
-    def get_name(self ,name ):
+    def set_name(self ,name ):
          self.__name = name
 
     def get_age(self):
         return self.__age
 
 
-    def get_age(self,age ):
+    def set_age(self,age ):
          self.__age= age
 
 student1 =student("usam",1)
