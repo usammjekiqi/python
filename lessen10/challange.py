@@ -37,8 +37,8 @@ class Difitalschool:
     def state(self, courses):
         self.__courses = courses
 
-    def show_school_info(self):
-        
+    def show_school_info(self): not
+
 
 
 
