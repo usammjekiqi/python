@@ -37,8 +37,8 @@ print(avg_iq_per_contry)
 #calculate nobel prizes by country nad show countries only with more than 1 nobel
 # you have to use group by , sum and sort values
 
-#nobel_per_contry=df.groupby('Country ')['Noble Prices'].count()
-#print(nobel_per_contry)
+nobel_per_contry=df.groupby('Country ')['Noble Prices'].count()
+print(nobel_per_contry)
 
 
 
