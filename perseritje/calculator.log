@@ -1,0 +1,3 @@
+2025-09-04 16:42:50,256 - ERROR - InvalidOperatorError: Operator '-2' is not supported.
+2025-09-04 16:46:51,666 - INFO - Operation: 10 20 40 + = 70
+2025-09-04 16:47:04,893 - INFO - Operation: 23 24 20 - = -21

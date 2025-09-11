@@ -18,3 +18,10 @@ plt.axis("equal")
 plt.ylabel("")
 plt.tight_layout()
 plt.show()
+
+
+
+
+
+
+
