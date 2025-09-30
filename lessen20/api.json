@@ -1,0 +1,10 @@
+{
+    "name": "JOHN DOE",
+    "age": 30,
+    "city": "prishtina",
+    "address": {
+        "street": "main street",
+        "number": 123
+    }
+
+}
