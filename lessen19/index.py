@@ -87,3 +87,5 @@ st.subheader("Genre")
 fig = pt.pie(filtered_book, names='Genre', title='Most liked genre(2009-2019)', color='Genre'),
 color_discrete_sequence=pt.colors.sequential.Plasma
 st.plotly_chart(fig[0], use_container_width=True)
+
+cd lessen20
