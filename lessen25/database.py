@@ -21,7 +21,7 @@ def create_table():
     ''')
     connection.commit()
     connection.close()
-
+ 
 create_table()
 
 def create_movie(movie: Movecreate) -> int:
