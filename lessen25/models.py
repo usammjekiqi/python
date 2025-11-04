@@ -7,3 +7,4 @@ class Movecreate(BaseModel):
 
 class Movie(BaseModel): 
       id: int
+
