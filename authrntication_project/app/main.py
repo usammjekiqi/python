@@ -2,7 +2,7 @@ from fastapi import FastAPI, HTTPException, Depends
 from typing import List
 from crudc import create_item, get_item, get_items, update_item, delete_item
 from modelsc import item
-from securityc import get_api_key
+from pip import get_api_key
 from databasec import init_db
 
 app = FastAPI()
